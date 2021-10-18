@@ -1,0 +1,19 @@
+c:\users\batuh\onedrive\documents\visual studio 2012\Projects\Server_max_xl\Server_max_xl\bin\Debug\Server_max_xl.exe.config
+c:\users\batuh\onedrive\documents\visual studio 2012\Projects\Server_max_xl\Server_max_xl\bin\Debug\Server_max_xl.exe
+c:\users\batuh\onedrive\documents\visual studio 2012\Projects\Server_max_xl\Server_max_xl\bin\Debug\Server_max_xl.pdb
+c:\users\batuh\onedrive\documents\visual studio 2012\Projects\Server_max_xl\Server_max_xl\obj\Debug\Server_max_xl.csprojResolveAssemblyReference.cache
+c:\users\batuh\onedrive\documents\visual studio 2012\Projects\Server_max_xl\Server_max_xl\obj\Debug\Server_max_xl.Properties.Resources.resources
+c:\users\batuh\onedrive\documents\visual studio 2012\Projects\Server_max_xl\Server_max_xl\obj\Debug\Server_max_xl.csproj.GenerateResource.Cache
+c:\users\batuh\onedrive\documents\visual studio 2012\Projects\Server_max_xl\Server_max_xl\obj\Debug\Server_max_xl.exe
+c:\users\batuh\onedrive\documents\visual studio 2012\Projects\Server_max_xl\Server_max_xl\obj\Debug\Server_max_xl.pdb
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\Server_max_xl\Server_max_xl\bin\Debug\Server_max_xl.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\Server_max_xl\Server_max_xl\obj\Debug\Server_max_xl.exe
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\Server_max_xl\Server_max_xl\obj\Debug\Server_max_xl.pdb
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\Server_max_xl\Server_max_xl\bin\Debug\Server_max_xl.exe
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\Server_max_xl\Server_max_xl\bin\Debug\Server_max_xl.pdb
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\Server_max_xl\Server_max_xl\obj\Debug\Server_max_xl.csprojResolveAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\Server_max_xl\Server_max_xl\obj\Debug\Server_max_xl.Properties.Resources.resources
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\Server_max_xl\Server_max_xl\obj\Debug\Server_max_xl.csproj.GenerateResource.Cache
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan\Server\Server_max_xl\bin\Debug\Server_max_xl.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan\Server\Server_max_xl\obj\Debug\Server_max_xl.exe
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan\Server\Server_max_xl\obj\Debug\Server_max_xl.pdb

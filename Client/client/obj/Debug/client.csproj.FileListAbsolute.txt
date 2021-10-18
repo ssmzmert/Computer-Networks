@@ -1,0 +1,162 @@
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.exe.config
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Form1.resources
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Properties.Resources.resources
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.exe
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.pdb
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.exe
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.pdb
+C:\Users\batuh\OneDrive\Masaüstü\client_mk1\client\bin\Debug\client.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\client_mk1\client\obj\Debug\client.exe
+C:\Users\batuh\OneDrive\Masaüstü\client_mk1\client\obj\Debug\client.pdb
+C:\Users\batuh\OneDrive\Masaüstü\client_mk3\client\bin\Debug\client.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\client_mk3\client\obj\Debug\client.exe
+C:\Users\batuh\OneDrive\Masaüstü\client_mk3\client\obj\Debug\client.pdb
+C:\Users\batuh\OneDrive\Masaüstü\client_mk3\client\bin\Debug\client.exe
+C:\Users\batuh\OneDrive\Masaüstü\client_mk3\client\bin\Debug\client.pdb
+C:\Users\batuh\OneDrive\Masaüstü\client_mk3\client\bin\Debug\mscorlib.dll
+C:\Users\batuh\OneDrive\Masaüstü\client_mk3\client\bin\Debug\System.Net.Http.dll
+C:\Users\batuh\OneDrive\Masaüstü\client_mk3\client\bin\Debug\System.Net.Http.xml
+C:\Users\batuh\OneDrive\Masaüstü\client_mk3\client\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\batuh\OneDrive\Masaüstü\client_mk3\client\bin\Debug\normidna.nlp
+C:\Users\batuh\OneDrive\Masaüstü\client_mk3\client\bin\Debug\normnfc.nlp
+C:\Users\batuh\OneDrive\Masaüstü\client_mk3\client\bin\Debug\normnfd.nlp
+C:\Users\batuh\OneDrive\Masaüstü\client_mk3\client\bin\Debug\normnfkc.nlp
+C:\Users\batuh\OneDrive\Masaüstü\client_mk3\client\bin\Debug\normnfkd.nlp
+C:\Users\batuh\OneDrive\Masaüstü\client_mk3\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\client_mk3\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\batuh\OneDrive\Masaüstü\client_mk3\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\batuh\OneDrive\Masaüstü\client_mk3\client\obj\Debug\client.username_label.resources
+C:\Users\batuh\OneDrive\Masaüstü\Client_CS408_Project_Step_1\client\bin\Debug\client.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\Client_CS408_Project_Step_1\client\obj\Debug\client.exe
+C:\Users\batuh\OneDrive\Masaüstü\Client_CS408_Project_Step_1\client\obj\Debug\client.pdb
+C:\Users\batuh\OneDrive\Masaüstü\client\client\bin\Debug\client.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\client\client\obj\Debug\client.exe
+C:\Users\batuh\OneDrive\Masaüstü\client\client\obj\Debug\client.pdb
+C:\Users\batuh\OneDrive\Masaüstü\client\client\bin\Debug\client.exe
+C:\Users\batuh\OneDrive\Masaüstü\client\client\bin\Debug\client.pdb
+C:\Users\batuh\OneDrive\Masaüstü\client\client\bin\Debug\mscorlib.dll
+C:\Users\batuh\OneDrive\Masaüstü\client\client\bin\Debug\System.Net.Http.dll
+C:\Users\batuh\OneDrive\Masaüstü\client\client\bin\Debug\System.Net.Http.xml
+C:\Users\batuh\OneDrive\Masaüstü\client\client\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\batuh\OneDrive\Masaüstü\client\client\bin\Debug\normidna.nlp
+C:\Users\batuh\OneDrive\Masaüstü\client\client\bin\Debug\normnfc.nlp
+C:\Users\batuh\OneDrive\Masaüstü\client\client\bin\Debug\normnfd.nlp
+C:\Users\batuh\OneDrive\Masaüstü\client\client\bin\Debug\normnfkc.nlp
+C:\Users\batuh\OneDrive\Masaüstü\client\client\bin\Debug\normnfkd.nlp
+C:\Users\batuh\OneDrive\Masaüstü\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\client\client\obj\Debug\client.username_label.resources
+C:\Users\batuh\OneDrive\Masaüstü\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\batuh\OneDrive\Masaüstü\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\client.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\obj\Debug\client.exe
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\obj\Debug\client.pdb
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\client.exe
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\client.pdb
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\mscorlib.dll
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\System.Net.Http.dll
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\System.Net.Http.xml
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\normidna.nlp
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\normnfc.nlp
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\normnfd.nlp
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\normnfkc.nlp
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\normnfkd.nlp
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\obj\Debug\client.username_label.resources
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\batuh\OneDrive\Masaüstü\CS408_STEP 2_BACKUPS\step2_broken_mk5\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\client.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\CS408_STEP 2_BACKUPS\step2_broken_mk5\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\obj\Debug\client.exe
+C:\Users\batuh\OneDrive\Masaüstü\CS408_STEP 2_BACKUPS\step2_broken_mk5\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\obj\Debug\client.pdb
+C:\Users\batuh\OneDrive\Masaüstü\CS408_STEP 2_BACKUPS\step2_broken_mk5\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\client.exe
+C:\Users\batuh\OneDrive\Masaüstü\CS408_STEP 2_BACKUPS\step2_broken_mk5\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\client.pdb
+C:\Users\batuh\OneDrive\Masaüstü\CS408_STEP 2_BACKUPS\step2_broken_mk5\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\mscorlib.dll
+C:\Users\batuh\OneDrive\Masaüstü\CS408_STEP 2_BACKUPS\step2_broken_mk5\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\System.Net.Http.dll
+C:\Users\batuh\OneDrive\Masaüstü\CS408_STEP 2_BACKUPS\step2_broken_mk5\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\System.Net.Http.xml
+C:\Users\batuh\OneDrive\Masaüstü\CS408_STEP 2_BACKUPS\step2_broken_mk5\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\batuh\OneDrive\Masaüstü\CS408_STEP 2_BACKUPS\step2_broken_mk5\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\normidna.nlp
+C:\Users\batuh\OneDrive\Masaüstü\CS408_STEP 2_BACKUPS\step2_broken_mk5\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\normnfc.nlp
+C:\Users\batuh\OneDrive\Masaüstü\CS408_STEP 2_BACKUPS\step2_broken_mk5\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\normnfd.nlp
+C:\Users\batuh\OneDrive\Masaüstü\CS408_STEP 2_BACKUPS\step2_broken_mk5\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\normnfkc.nlp
+C:\Users\batuh\OneDrive\Masaüstü\CS408_STEP 2_BACKUPS\step2_broken_mk5\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\bin\Debug\normnfkd.nlp
+C:\Users\batuh\OneDrive\Masaüstü\CS408_STEP 2_BACKUPS\step2_broken_mk5\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\CS408_STEP 2_BACKUPS\step2_broken_mk5\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\obj\Debug\client.username_label.resources
+C:\Users\batuh\OneDrive\Masaüstü\CS408_STEP 2_BACKUPS\step2_broken_mk5\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\batuh\OneDrive\Masaüstü\CS408_STEP 2_BACKUPS\step2_broken_mk5\bodabasi_Odabasi_MuhammedBatuhan_Step2\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\batuh\OneDrive\Masaüstü\CS408_ST2_3\client\client\bin\Debug\client.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\CS408_ST2_3\client\client\obj\Debug\client.exe
+C:\Users\batuh\OneDrive\Masaüstü\CS408_ST2_3\client\client\obj\Debug\client.pdb
+C:\Users\batuh\OneDrive\Masaüstü\CS408_ST2_3\client\client\bin\Debug\client.exe
+C:\Users\batuh\OneDrive\Masaüstü\CS408_ST2_3\client\client\bin\Debug\client.pdb
+C:\Users\batuh\OneDrive\Masaüstü\CS408_ST2_3\client\client\bin\Debug\mscorlib.dll
+C:\Users\batuh\OneDrive\Masaüstü\CS408_ST2_3\client\client\bin\Debug\System.Net.Http.dll
+C:\Users\batuh\OneDrive\Masaüstü\CS408_ST2_3\client\client\bin\Debug\System.Net.Http.xml
+C:\Users\batuh\OneDrive\Masaüstü\CS408_ST2_3\client\client\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\batuh\OneDrive\Masaüstü\CS408_ST2_3\client\client\bin\Debug\normidna.nlp
+C:\Users\batuh\OneDrive\Masaüstü\CS408_ST2_3\client\client\bin\Debug\normnfc.nlp
+C:\Users\batuh\OneDrive\Masaüstü\CS408_ST2_3\client\client\bin\Debug\normnfd.nlp
+C:\Users\batuh\OneDrive\Masaüstü\CS408_ST2_3\client\client\bin\Debug\normnfkc.nlp
+C:\Users\batuh\OneDrive\Masaüstü\CS408_ST2_3\client\client\bin\Debug\normnfkd.nlp
+C:\Users\batuh\OneDrive\Masaüstü\CS408_ST2_3\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\CS408_ST2_3\client\client\obj\Debug\client.username_label.resources
+C:\Users\batuh\OneDrive\Masaüstü\CS408_ST2_3\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\batuh\OneDrive\Masaüstü\CS408_ST2_3\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\Omen\Desktop\client\client\bin\Debug\client.exe.config
+C:\Users\Omen\Desktop\client\client\obj\Debug\client.exe
+C:\Users\Omen\Desktop\client\client\obj\Debug\client.pdb
+C:\Users\Omen\Desktop\client\client\bin\Debug\client.exe
+C:\Users\Omen\Desktop\client\client\bin\Debug\client.pdb
+C:\Users\Omen\Desktop\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Omen\Desktop\client\client\obj\Debug\client.username_label.resources
+C:\Users\Omen\Desktop\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Omen\Desktop\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\Omen\Desktop\CLIENT NEWEST\client\bin\Debug\client.exe.config
+C:\Users\Omen\Desktop\CLIENT NEWEST\client\obj\Debug\client.exe
+C:\Users\Omen\Desktop\CLIENT NEWEST\client\obj\Debug\client.pdb
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\CLIENT NEWEST\client\bin\Debug\client.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\CLIENT NEWEST\client\obj\Debug\client.exe
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\CLIENT NEWEST\client\obj\Debug\client.pdb
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\CLIENT NEWEST\client\bin\Debug\client.exe
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\CLIENT NEWEST\client\bin\Debug\client.pdb
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\CLIENT NEWEST\client\bin\Debug\mscorlib.dll
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\CLIENT NEWEST\client\bin\Debug\System.Net.Http.dll
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\CLIENT NEWEST\client\bin\Debug\System.Net.Http.xml
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\CLIENT NEWEST\client\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\CLIENT NEWEST\client\bin\Debug\normidna.nlp
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\CLIENT NEWEST\client\bin\Debug\normnfc.nlp
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\CLIENT NEWEST\client\bin\Debug\normnfd.nlp
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\CLIENT NEWEST\client\bin\Debug\normnfkc.nlp
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\CLIENT NEWEST\client\bin\Debug\normnfkd.nlp
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\CLIENT NEWEST\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\CLIENT NEWEST\client\obj\Debug\client.username_label.resources
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\CLIENT NEWEST\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\batuh\OneDrive\Masaüstü\theproject_408\CLIENT NEWEST\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\batuh\OneDrive\Masaüstü\cs_408_project_end\client\client\bin\Debug\client.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\cs_408_project_end\client\client\obj\Debug\client.exe
+C:\Users\batuh\OneDrive\Masaüstü\cs_408_project_end\client\client\obj\Debug\client.pdb
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan_Step23\Client\client\bin\Debug\client.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan_Step23\Client\client\obj\Debug\client.exe
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan_Step23\Client\client\obj\Debug\client.pdb
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan\Client\client\bin\Debug\client.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan\Client\client\obj\Debug\client.exe
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan\Client\client\obj\Debug\client.pdb
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan\Client\client\bin\Debug\client.exe
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan\Client\client\bin\Debug\client.pdb
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan\Client\client\bin\Debug\mscorlib.dll
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan\Client\client\bin\Debug\System.Net.Http.dll
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan\Client\client\bin\Debug\System.Net.Http.xml
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan\Client\client\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan\Client\client\bin\Debug\normidna.nlp
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan\Client\client\bin\Debug\normnfc.nlp
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan\Client\client\bin\Debug\normnfd.nlp
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan\Client\client\bin\Debug\normnfkc.nlp
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan\Client\client\bin\Debug\normnfkd.nlp
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan\Client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan\Client\client\obj\Debug\client.username_label.resources
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan\Client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\batuh\OneDrive\Masaüstü\bodabasi_Odabasi_Muhammed_Batuhan\Client\client\obj\Debug\client.csproj.GenerateResource.Cache
+D:\Users\Mert\Desktop\bodabasi_Odabasi_Muhammed_Batuhan\Client\client\bin\Debug\client.exe.config
+D:\Users\Mert\Desktop\bodabasi_Odabasi_Muhammed_Batuhan\Client\client\obj\Debug\client.exe
+D:\Users\Mert\Desktop\bodabasi_Odabasi_Muhammed_Batuhan\Client\client\obj\Debug\client.pdb
